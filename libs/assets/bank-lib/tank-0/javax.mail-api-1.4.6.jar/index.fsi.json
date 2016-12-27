@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":3873,
+			"lastModified":1481217209603,
+			"hash":"a0519e8211022bf909e9f102b1797e3a"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238642
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":3750,
+			"lastModified":1481217209608,
+			"hash":"f5ea33fc67e73ffe57b131c64bed7f6c"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"javax.mail-api-1.4.6.jar":{
+					"name":"javax.mail-api-1.4.6.jar",
+					"is_file":true,
+					"size":189531,
+					"lastModified":1481217209619,
+					"hash":"1e93510833c37a83eb4f4f55905274f1"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":12007,
+			"lastModified":1481217209751,
+			"hash":"8358b4651067e54be5bbe0f9b12c196b"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238750
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":12384,
+			"lastModified":1481217209756,
+			"hash":"e3e071cdc5e87093d603c541adc5c84d"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"mysql-connector-java-5.1.40-bin.jar":{
+					"name":"mysql-connector-java-5.1.40-bin.jar",
+					"is_file":true,
+					"size":990927,
+					"lastModified":1481217209781,
+					"hash":"2ad5cfbcb388bee5a64c879c208c7652"
+				}
+			}
+		}
+	}
+}

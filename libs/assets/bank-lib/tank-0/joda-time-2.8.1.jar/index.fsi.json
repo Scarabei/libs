@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":7004,
+			"lastModified":1481217209672,
+			"hash":"b2fd4f6da03cf815d8476b69c321f7a1"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238689
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":6977,
+			"lastModified":1481217209677,
+			"hash":"5d88f0d8206c918ef38225e742dd0550"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"joda-time-2.8.1.jar":{
+					"name":"joda-time-2.8.1.jar",
+					"is_file":true,
+					"size":621931,
+					"lastModified":1481217209685,
+					"hash":"c23002a0fac3455e92551e7f24500fa4"
+				}
+			}
+		}
+	}
+}

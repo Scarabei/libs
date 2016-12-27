@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":1737,
+			"lastModified":1481217208730,
+			"hash":"afd7e4f87fe2b7d4900ab39d97176b36"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238450
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":1478,
+			"lastModified":1481217208737,
+			"hash":"b3359967b6ef9b2013a64f8f92004116"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"hamcrest-core-1.3.jar":{
+					"name":"hamcrest-core-1.3.jar",
+					"is_file":true,
+					"size":45024,
+					"lastModified":1481217209008,
+					"hash":"6393363b47ddcbba82321110c3e07519"
+				}
+			}
+		}
+	}
+}

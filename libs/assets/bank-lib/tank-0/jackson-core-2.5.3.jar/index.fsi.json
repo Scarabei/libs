@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":3961,
+			"lastModified":1481217209459,
+			"hash":"7c0824d38ec7844c2b62ab6c491fc5e4"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238562
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":3802,
+			"lastModified":1481217209471,
+			"hash":"ee468a293c25ce426c5b2840d07c5c38"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"jackson-core-2.5.3.jar":{
+					"name":"jackson-core-2.5.3.jar",
+					"is_file":true,
+					"size":229998,
+					"lastModified":1481217209482,
+					"hash":"5763215f9054614336ffa55d46a69e15"
+				}
+			}
+		}
+	}
+}

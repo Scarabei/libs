@@ -1,0 +1,16 @@
+{
+	"entries":{
+		"tank-0":{
+			"name":"tank-0",
+			"is_folder":true,
+			"lastModified":1481217770144
+		},
+		"r3-bank-header.r3-bank":{
+			"name":"r3-bank-header.r3-bank",
+			"is_file":true,
+			"size":46,
+			"lastModified":1481218296211,
+			"hash":"6adf14fb2d69aa5c1a7fd3a603f1cb4f"
+		}
+	}
+}

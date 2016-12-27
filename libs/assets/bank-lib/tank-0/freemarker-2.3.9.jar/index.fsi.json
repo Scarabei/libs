@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":10289,
+			"lastModified":1481217208667,
+			"hash":"2d63c9d3a6e777ca3f8f1c861bff94df"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238423
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":10646,
+			"lastModified":1481217208697,
+			"hash":"444196261f63b8b956b9c30925c857c8"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"freemarker-2.3.9.jar":{
+					"name":"freemarker-2.3.9.jar",
+					"is_file":true,
+					"size":807736,
+					"lastModified":1481217208721,
+					"hash":"863e23ab67f7aa0bf5e82683daaace47"
+				}
+			}
+		}
+	}
+}

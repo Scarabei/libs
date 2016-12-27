@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":5946,
+			"lastModified":1481217206285,
+			"hash":"df31eb79ecac0c90287bf895f0296974"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238090
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":5867,
+			"lastModified":1481217206334,
+			"hash":"4be40401a748442d25c0e700ce6a521e"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"aspectjrt-1.8.2.jar":{
+					"name":"aspectjrt-1.8.2.jar",
+					"is_file":true,
+					"size":117099,
+					"lastModified":1481217206353,
+					"hash":"bd6052b2fa503058fb7b29f37cb7e176"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":7042,
+			"lastModified":1481217209703,
+			"hash":"a256f353e8c906fa6ea2d6d3bdd8b97e"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238724
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":7007,
+			"lastModified":1481217209709,
+			"hash":"9167c159baf9fecb385c2bacf62edbf7"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"junit-4.11.jar":{
+					"name":"junit-4.11.jar",
+					"is_file":true,
+					"size":245039,
+					"lastModified":1481217209719,
+					"hash":"3c42be5ea7cbf3635716abbb429cb90d"
+				}
+			}
+		}
+	}
+}

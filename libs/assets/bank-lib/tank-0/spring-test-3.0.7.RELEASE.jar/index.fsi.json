@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":7773,
+			"lastModified":1481217210010,
+			"hash":"4c5e92f4c63c8f1a7cbe47f94230cf9b"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238851
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":7730,
+			"lastModified":1481217210017,
+			"hash":"e4f6b099cfeb45d43a8126f0bd4d3be4"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"spring-test-3.0.7.RELEASE.jar":{
+					"name":"spring-test-3.0.7.RELEASE.jar",
+					"is_file":true,
+					"size":205357,
+					"lastModified":1481217210029,
+					"hash":"afbcb10c3e563f272317e968e361ef78"
+				}
+			}
+		}
+	}
+}

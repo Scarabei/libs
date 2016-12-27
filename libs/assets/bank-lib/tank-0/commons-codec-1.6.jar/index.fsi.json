@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":2724,
+			"lastModified":1481217208556,
+			"hash":"6c0a1caaa932c7a44c7ace2f9f7e4dab"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238372
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":2461,
+			"lastModified":1481217208562,
+			"hash":"36e9c2daefcefc228df03796183c6b98"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"commons-codec-1.6.jar":{
+					"name":"commons-codec-1.6.jar",
+					"is_file":true,
+					"size":232771,
+					"lastModified":1481217208575,
+					"hash":"5970f54883b4831b24b97f1125ba27e6"
+				}
+			}
+		}
+	}
+}
