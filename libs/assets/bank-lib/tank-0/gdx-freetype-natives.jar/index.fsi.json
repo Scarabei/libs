@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":522,
+			"lastModified":1482869170971,
+			"hash":"c1d428acc172592900bf2173c45fc5a3"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869170993
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":118,
+			"lastModified":1482869170979,
+			"hash":"0762f02348546fdbee99e907c4c2cce6"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"gdx-freetype-natives.jar":{
+					"name":"gdx-freetype-natives.jar",
+					"is_file":true,
+					"size":2207539,
+					"lastModified":1482869170999,
+					"hash":"c463fb2c64397ef1a1f5a3a32d59cada"
+				}
+			}
+		}
+	}
+}

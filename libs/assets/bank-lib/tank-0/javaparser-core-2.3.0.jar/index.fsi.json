@@ -4,20 +4,20 @@
 			"name":"package.descriptor",
 			"is_file":true,
 			"size":6412,
-			"lastModified":1481217209571,
-			"hash":"aa3be4775c79586c063ae1a45f4bd45a"
+			"lastModified":1482869171225,
+			"hash":"3dd56302b90fda783c225cd43244417d"
 		},
 		"content":{
 			"name":"content",
 			"is_folder":true,
-			"lastModified":1481217238620
+			"lastModified":1482869171238
 		},
 		"package.descriptor.json":{
 			"name":"package.descriptor.json",
 			"is_file":true,
 			"size":6377,
-			"lastModified":1481217209576,
-			"hash":"dab7d4908cb61a935f4f56c06ade2ad8"
+			"lastModified":1482869171232,
+			"hash":"517c68c45b4da7a394cf6cde7c32e676"
 		}
 	},
 	"children":{
@@ -27,7 +27,7 @@
 					"name":"javaparser-core-2.3.0.jar",
 					"is_file":true,
 					"size":322588,
-					"lastModified":1481217209587,
+					"lastModified":1482869171246,
 					"hash":"9ca09990a462b6bb1aac625b97d851de"
 				}
 			}

@@ -4,20 +4,20 @@
 			"name":"package.descriptor",
 			"is_file":true,
 			"size":1737,
-			"lastModified":1481217208730,
-			"hash":"afd7e4f87fe2b7d4900ab39d97176b36"
+			"lastModified":1482869171042,
+			"hash":"a5af0078dba7b3749da7ef14fc4872b5"
 		},
 		"content":{
 			"name":"content",
 			"is_folder":true,
-			"lastModified":1481217238450
+			"lastModified":1482869171055
 		},
 		"package.descriptor.json":{
 			"name":"package.descriptor.json",
 			"is_file":true,
 			"size":1478,
-			"lastModified":1481217208737,
-			"hash":"b3359967b6ef9b2013a64f8f92004116"
+			"lastModified":1482869171052,
+			"hash":"02540ba7f7085489b6458b07d9a27bdf"
 		}
 	},
 	"children":{
@@ -27,7 +27,7 @@
 					"name":"hamcrest-core-1.3.jar",
 					"is_file":true,
 					"size":45024,
-					"lastModified":1481217209008,
+					"lastModified":1482869171203,
 					"hash":"6393363b47ddcbba82321110c3e07519"
 				}
 			}

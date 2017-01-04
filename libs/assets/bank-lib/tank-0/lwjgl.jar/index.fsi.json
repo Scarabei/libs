@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":19404,
+			"lastModified":1482869171547,
+			"hash":"9fa8054ee22ad08604d30a9653953830"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869171582
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":20473,
+			"lastModified":1482869171560,
+			"hash":"93e40ae25bd978e157d317d054fae341"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"lwjgl.jar":{
+					"name":"lwjgl.jar",
+					"is_file":true,
+					"size":1047599,
+					"lastModified":1482869171592,
+					"hash":"9461dc87b33470ac7db3e599d2e3a795"
+				}
+			}
+		}
+	}
+}

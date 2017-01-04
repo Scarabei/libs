@@ -1,7 +1,7 @@
 {
 	"format":"java.jar",
 	"version":"1.0",
-	"timestamp":"1481217209566",
+	"timestamp":"1482869171219",
 	"root_file_name":"javaparser-core-2.3.0.jar",
 	"packed_assets":[
 		"com.github.javaparser.SourcesHelper",

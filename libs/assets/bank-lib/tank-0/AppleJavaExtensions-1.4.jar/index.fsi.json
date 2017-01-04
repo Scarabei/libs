@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":1253,
+			"lastModified":1482869170651,
+			"hash":"dfa5afb20c4c4d269a55766b74d28105"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869170704
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":942,
+			"lastModified":1482869170695,
+			"hash":"9fcfc1975dbdf4ae4d090ee19d091c54"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"AppleJavaExtensions-1.4.jar":{
+					"name":"AppleJavaExtensions-1.4.jar",
+					"is_file":true,
+					"size":11719,
+					"lastModified":1482869170765,
+					"hash":"0a0c0a8f20c24803c71eb1e85230d1a8"
+				}
+			}
+		}
+	}
+}

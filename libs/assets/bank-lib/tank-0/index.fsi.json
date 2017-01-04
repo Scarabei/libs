@@ -20,37 +20,32 @@
 			"is_folder":true,
 			"lastModified":1481217238103
 		},
-		"aspectjweaver.jar":{
-			"name":"aspectjweaver.jar",
-			"is_folder":true,
-			"lastModified":1481217238151
-		},
 		"jackson-annotations-2.5.0.jar":{
 			"name":"jackson-annotations-2.5.0.jar",
 			"is_folder":true,
 			"lastModified":1481217238551
+		},
+		"gdx-freetype-natives.jar":{
+			"name":"gdx-freetype-natives.jar",
+			"is_folder":true,
+			"lastModified":1482869170975
 		},
 		"javaparser-core-2.3.0.jar":{
 			"name":"javaparser-core-2.3.0.jar",
 			"is_folder":true,
 			"lastModified":1481217238630
 		},
-		"joda-time-2.8.1.jar":{
-			"name":"joda-time-2.8.1.jar",
+		"jglfw.jar":{
+			"name":"jglfw.jar",
 			"is_folder":true,
-			"lastModified":1481217238708
-		},
-		"junit-4.11.jar":{
-			"name":"junit-4.11.jar",
-			"is_folder":true,
-			"lastModified":1481217238734
+			"lastModified":1482869171260
 		},
 		"index.r3-bank":{
 			"name":"index.r3-bank",
 			"is_file":true,
-			"size":135741,
-			"lastModified":1481218295638,
-			"hash":"4d336ad6c6b30b08dbd2d9e0ca58fd39"
+			"size":148559,
+			"lastModified":1482869312319,
+			"hash":"95d762775d3f4b6a521236c2577c7664"
 		},
 		"jackson-databind-2.5.3.jar":{
 			"name":"jackson-databind-2.5.3.jar",
@@ -61,6 +56,78 @@
 			"name":"hamcrest-core-1.3.jar",
 			"is_folder":true,
 			"lastModified":1481217238461
+		},
+		"gdx-backend-lwjgl-natives.jar":{
+			"name":"gdx-backend-lwjgl-natives.jar",
+			"is_folder":true,
+			"lastModified":1482869170895
+		},
+		"aws-java-sdk-1.10.56.jar":{
+			"name":"aws-java-sdk-1.10.56.jar",
+			"is_folder":true,
+			"lastModified":1481217238360
+		},
+		"jorbis.jar":{
+			"name":"jorbis.jar",
+			"is_folder":true,
+			"lastModified":1482869171320
+		},
+		"httpclient-4.3.6.jar":{
+			"name":"httpclient-4.3.6.jar",
+			"is_folder":true,
+			"lastModified":1481217238486
+		},
+		"index.r3-bank.json":{
+			"name":"index.r3-bank.json",
+			"is_file":true,
+			"size":1361531,
+			"lastModified":1482869312536,
+			"hash":"81d3209430f6169db2f8b36c7c9d978b"
+		},
+		"spring-beans-3.0.7.RELEASE.jar":{
+			"name":"spring-beans-3.0.7.RELEASE.jar",
+			"is_folder":true,
+			"lastModified":1481217238790
+		},
+		"gdx-backend-jglfw-natives.jar":{
+			"name":"gdx-backend-jglfw-natives.jar",
+			"is_folder":true,
+			"lastModified":1482869170820
+		},
+		"aspectjweaver.jar":{
+			"name":"aspectjweaver.jar",
+			"is_folder":true,
+			"lastModified":1481217238151
+		},
+		"jorbis_2.jar":{
+			"name":"jorbis_2.jar",
+			"is_folder":true,
+			"lastModified":1482869171344
+		},
+		"lwjgl_2.jar":{
+			"name":"lwjgl_2.jar",
+			"is_folder":true,
+			"lastModified":1482869171736
+		},
+		"jlayer-1.0.1-libgdx_2.jar":{
+			"name":"jlayer-1.0.1-libgdx_2.jar",
+			"is_folder":true,
+			"lastModified":1482869171301
+		},
+		"lwjgl-natives.jar":{
+			"name":"lwjgl-natives.jar",
+			"is_folder":true,
+			"lastModified":1482869171477
+		},
+		"joda-time-2.8.1.jar":{
+			"name":"joda-time-2.8.1.jar",
+			"is_folder":true,
+			"lastModified":1481217238708
+		},
+		"junit-4.11.jar":{
+			"name":"junit-4.11.jar",
+			"is_folder":true,
+			"lastModified":1481217238734
 		},
 		"javax.mail-api-1.4.6.jar":{
 			"name":"javax.mail-api-1.4.6.jar",
@@ -77,11 +144,6 @@
 			"is_folder":true,
 			"lastModified":1481217238763
 		},
-		"aws-java-sdk-1.10.56.jar":{
-			"name":"aws-java-sdk-1.10.56.jar",
-			"is_folder":true,
-			"lastModified":1481217238360
-		},
 		"commons-logging-1.1.3.jar":{
 			"name":"commons-logging-1.1.3.jar",
 			"is_folder":true,
@@ -92,37 +154,40 @@
 			"is_folder":true,
 			"lastModified":1481217238676
 		},
+		"jlayer-1.0.1-libgdx.jar":{
+			"name":"jlayer-1.0.1-libgdx.jar",
+			"is_folder":true,
+			"lastModified":1482869171285
+		},
 		"spring-test-3.0.7.RELEASE.jar":{
 			"name":"spring-test-3.0.7.RELEASE.jar",
 			"is_folder":true,
 			"lastModified":1481217238860
+		},
+		"lwjgl.jar":{
+			"name":"lwjgl.jar",
+			"is_folder":true,
+			"lastModified":1482869171551
 		},
 		"freemarker-2.3.9.jar":{
 			"name":"freemarker-2.3.9.jar",
 			"is_folder":true,
 			"lastModified":1481217238434
 		},
-		"httpclient-4.3.6.jar":{
-			"name":"httpclient-4.3.6.jar",
-			"is_folder":true,
-			"lastModified":1481217238486
-		},
-		"index.r3-bank.json":{
-			"name":"index.r3-bank.json",
-			"is_file":true,
-			"size":1280766,
-			"lastModified":1481218295859,
-			"hash":"ddb9b260a0b5a4051d20a318bed1b11d"
-		},
 		"spring-core-3.0.7.RELEASE.jar":{
 			"name":"spring-core-3.0.7.RELEASE.jar",
 			"is_folder":true,
 			"lastModified":1481217238839
 		},
-		"spring-beans-3.0.7.RELEASE.jar":{
-			"name":"spring-beans-3.0.7.RELEASE.jar",
+		"AppleJavaExtensions-1.4.jar":{
+			"name":"AppleJavaExtensions-1.4.jar",
 			"is_folder":true,
-			"lastModified":1481217238790
+			"lastModified":1482869170691
+		},
+		"gdx-natives.jar":{
+			"name":"gdx-natives.jar",
+			"is_folder":true,
+			"lastModified":1482869171024
 		}
 	},
 	"children":{
@@ -270,42 +335,6 @@
 				}
 			}
 		},
-		"aspectjweaver.jar":{
-			"entries":{
-				"package.descriptor":{
-					"name":"package.descriptor",
-					"is_file":true,
-					"size":29291,
-					"lastModified":1481217206464,
-					"hash":"e4911adc1e4b54a5122d4f714b613feb"
-				},
-				"content":{
-					"name":"content",
-					"is_folder":true,
-					"lastModified":1481217238133
-				},
-				"package.descriptor.json":{
-					"name":"package.descriptor.json",
-					"is_file":true,
-					"size":30804,
-					"lastModified":1481217206487,
-					"hash":"7fd005b1504d59491b4ce148a55d6117"
-				}
-			},
-			"children":{
-				"content":{
-					"entries":{
-						"aspectjweaver.jar":{
-							"name":"aspectjweaver.jar",
-							"is_file":true,
-							"size":1749970,
-							"lastModified":1481217206538,
-							"hash":"b79f1927b4d55baea80ccacbefbc7f96"
-						}
-					}
-				}
-			}
-		},
 		"jackson-annotations-2.5.0.jar":{
 			"entries":{
 				"package.descriptor":{
@@ -342,26 +371,62 @@
 				}
 			}
 		},
+		"gdx-freetype-natives.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":522,
+					"lastModified":1482869170971,
+					"hash":"c1d428acc172592900bf2173c45fc5a3"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869170993
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":118,
+					"lastModified":1482869170979,
+					"hash":"0762f02348546fdbee99e907c4c2cce6"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"gdx-freetype-natives.jar":{
+							"name":"gdx-freetype-natives.jar",
+							"is_file":true,
+							"size":2207539,
+							"lastModified":1482869170999,
+							"hash":"c463fb2c64397ef1a1f5a3a32d59cada"
+						}
+					}
+				}
+			}
+		},
 		"javaparser-core-2.3.0.jar":{
 			"entries":{
 				"package.descriptor":{
 					"name":"package.descriptor",
 					"is_file":true,
 					"size":6412,
-					"lastModified":1481217209571,
-					"hash":"aa3be4775c79586c063ae1a45f4bd45a"
+					"lastModified":1482869171225,
+					"hash":"3dd56302b90fda783c225cd43244417d"
 				},
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1481217238620
+					"lastModified":1482869171238
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
 					"is_file":true,
 					"size":6377,
-					"lastModified":1481217209576,
-					"hash":"dab7d4908cb61a935f4f56c06ade2ad8"
+					"lastModified":1482869171232,
+					"hash":"517c68c45b4da7a394cf6cde7c32e676"
 				}
 			},
 			"children":{
@@ -371,80 +436,44 @@
 							"name":"javaparser-core-2.3.0.jar",
 							"is_file":true,
 							"size":322588,
-							"lastModified":1481217209587,
+							"lastModified":1482869171246,
 							"hash":"9ca09990a462b6bb1aac625b97d851de"
 						}
 					}
 				}
 			}
 		},
-		"joda-time-2.8.1.jar":{
+		"jglfw.jar":{
 			"entries":{
 				"package.descriptor":{
 					"name":"package.descriptor",
 					"is_file":true,
-					"size":7004,
-					"lastModified":1481217209672,
-					"hash":"b2fd4f6da03cf815d8476b69c321f7a1"
+					"size":1007,
+					"lastModified":1482869171259,
+					"hash":"cc87cba89e5e4e02180367354272a152"
 				},
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1481217238689
+					"lastModified":1482869171267
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
 					"is_file":true,
-					"size":6977,
-					"lastModified":1481217209677,
-					"hash":"5d88f0d8206c918ef38225e742dd0550"
+					"size":672,
+					"lastModified":1482869171265,
+					"hash":"418a8f492a2f618cb3397ec328133a41"
 				}
 			},
 			"children":{
 				"content":{
 					"entries":{
-						"joda-time-2.8.1.jar":{
-							"name":"joda-time-2.8.1.jar",
+						"jglfw.jar":{
+							"name":"jglfw.jar",
 							"is_file":true,
-							"size":621931,
-							"lastModified":1481217209685,
-							"hash":"c23002a0fac3455e92551e7f24500fa4"
-						}
-					}
-				}
-			}
-		},
-		"junit-4.11.jar":{
-			"entries":{
-				"package.descriptor":{
-					"name":"package.descriptor",
-					"is_file":true,
-					"size":7042,
-					"lastModified":1481217209703,
-					"hash":"a256f353e8c906fa6ea2d6d3bdd8b97e"
-				},
-				"content":{
-					"name":"content",
-					"is_folder":true,
-					"lastModified":1481217238724
-				},
-				"package.descriptor.json":{
-					"name":"package.descriptor.json",
-					"is_file":true,
-					"size":7007,
-					"lastModified":1481217209709,
-					"hash":"9167c159baf9fecb385c2bacf62edbf7"
-				}
-			},
-			"children":{
-				"content":{
-					"entries":{
-						"junit-4.11.jar":{
-							"name":"junit-4.11.jar",
-							"is_file":true,
-							"size":245039,
-							"lastModified":1481217209719,
-							"hash":"3c42be5ea7cbf3635716abbb429cb90d"
+							"size":136538,
+							"lastModified":1482869171272,
+							"hash":"d521bbc2d06906f50a3a9264d4f42d06"
 						}
 					}
 				}
@@ -492,20 +521,20 @@
 					"name":"package.descriptor",
 					"is_file":true,
 					"size":1737,
-					"lastModified":1481217208730,
-					"hash":"afd7e4f87fe2b7d4900ab39d97176b36"
+					"lastModified":1482869171042,
+					"hash":"a5af0078dba7b3749da7ef14fc4872b5"
 				},
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1481217238450
+					"lastModified":1482869171055
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
 					"is_file":true,
 					"size":1478,
-					"lastModified":1481217208737,
-					"hash":"b3359967b6ef9b2013a64f8f92004116"
+					"lastModified":1482869171052,
+					"hash":"02540ba7f7085489b6458b07d9a27bdf"
 				}
 			},
 			"children":{
@@ -515,8 +544,476 @@
 							"name":"hamcrest-core-1.3.jar",
 							"is_file":true,
 							"size":45024,
-							"lastModified":1481217209008,
+							"lastModified":1482869171203,
 							"hash":"6393363b47ddcbba82321110c3e07519"
+						}
+					}
+				}
+			}
+		},
+		"gdx-backend-lwjgl-natives.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":527,
+					"lastModified":1482869170891,
+					"hash":"a2d198121eb6dbc8feb146f8171652e7"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869170908
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":123,
+					"lastModified":1482869170900,
+					"hash":"dde8e48340360c7fbb6422c6f68962c1"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"gdx-backend-lwjgl-natives.jar":{
+							"name":"gdx-backend-lwjgl-natives.jar",
+							"is_file":true,
+							"size":1623815,
+							"lastModified":1482869170913,
+							"hash":"0b9a90e42d17001cb0c5874b911813e8"
+						}
+					}
+				}
+			}
+		},
+		"aws-java-sdk-1.10.56.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":994850,
+					"lastModified":1481217207708,
+					"hash":"705e3882a43d14fd51441a4eba713420"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1481217238338
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":1026655,
+					"lastModified":1481217207813,
+					"hash":"51f8ebe856fea3ff1c0d041bf7786a0a"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"aws-java-sdk-1.10.56.jar":{
+							"name":"aws-java-sdk-1.10.56.jar",
+							"is_file":true,
+							"size":31115440,
+							"lastModified":1481217208538,
+							"hash":"59f596605357da22007b6932559502dc"
+						}
+					}
+				}
+			}
+		},
+		"jorbis.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":1998,
+					"lastModified":1482869171319,
+					"hash":"31add64ed617b3b553e72ba140969049"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171328
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":1743,
+					"lastModified":1482869171324,
+					"hash":"02eb4acd49d40a80ca6819e21252ce01"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"jorbis.jar":{
+							"name":"jorbis.jar",
+							"is_file":true,
+							"size":64696,
+							"lastModified":1482869171332,
+							"hash":"c33806373904bfc0527d16e349051aa4"
+						}
+					}
+				}
+			}
+		},
+		"httpclient-4.3.6.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":18793,
+					"lastModified":1481217209036,
+					"hash":"8f9ae5724379664caeedf39e3320143a"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1481217238475
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":19250,
+					"lastModified":1481217209048,
+					"hash":"f7ed519a863d4615fb07b727351c28c0"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"httpclient-4.3.6.jar":{
+							"name":"httpclient-4.3.6.jar",
+							"is_file":true,
+							"size":592008,
+							"lastModified":1481217209066,
+							"hash":"2d29a27bb6c6b44bc8a608a0e5d09735"
+						}
+					}
+				}
+			}
+		},
+		"spring-beans-3.0.7.RELEASE.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":17757,
+					"lastModified":1481217209818,
+					"hash":"585daed99595f8c7df3db0aca5cdd1d4"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1481217238778
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":18170,
+					"lastModified":1481217209829,
+					"hash":"65a0387be5a9489ec8397e4a6b2aa365"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"spring-beans-3.0.7.RELEASE.jar":{
+							"name":"spring-beans-3.0.7.RELEASE.jar",
+							"is_file":true,
+							"size":556747,
+							"lastModified":1481217209849,
+							"hash":"0b9954842f12133fcff91bd90235182d"
+						}
+					}
+				}
+			}
+		},
+		"gdx-backend-jglfw-natives.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":527,
+					"lastModified":1482869170816,
+					"hash":"ff1dd6171be885a97e623b675d16ec67"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869170828
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":123,
+					"lastModified":1482869170823,
+					"hash":"0df44856d60eaaeb0ef87b72fefc3aa7"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"gdx-backend-jglfw-natives.jar":{
+							"name":"gdx-backend-jglfw-natives.jar",
+							"is_file":true,
+							"size":1321237,
+							"lastModified":1482869170832,
+							"hash":"ae2642d3ed9045e6174be2d1139f7ab8"
+						}
+					}
+				}
+			}
+		},
+		"aspectjweaver.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":29291,
+					"lastModified":1481217206464,
+					"hash":"e4911adc1e4b54a5122d4f714b613feb"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1481217238133
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":30804,
+					"lastModified":1481217206487,
+					"hash":"7fd005b1504d59491b4ce148a55d6117"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"aspectjweaver.jar":{
+							"name":"aspectjweaver.jar",
+							"is_file":true,
+							"size":1749970,
+							"lastModified":1481217206538,
+							"hash":"b79f1927b4d55baea80ccacbefbc7f96"
+						}
+					}
+				}
+			}
+		},
+		"jorbis_2.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":2000,
+					"lastModified":1482869171343,
+					"hash":"b95d81237a4c32d0ee84241d65442697"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171351
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":1745,
+					"lastModified":1482869171348,
+					"hash":"94f7e1fef6fbd7f9ee13aef8babcd76b"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"jorbis_2.jar":{
+							"name":"jorbis_2.jar",
+							"is_file":true,
+							"size":64696,
+							"lastModified":1482869171355,
+							"hash":"c33806373904bfc0527d16e349051aa4"
+						}
+					}
+				}
+			}
+		},
+		"lwjgl_2.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":45710,
+					"lastModified":1482869171729,
+					"hash":"9f8530db804f4403fa9be7fe8d08ec88"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171796
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":48843,
+					"lastModified":1482869171745,
+					"hash":"bbc0c5c5970f4e075ab0964cf063af66"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"lwjgl_2.jar":{
+							"name":"lwjgl_2.jar",
+							"is_file":true,
+							"size":2803368,
+							"lastModified":1482869171807,
+							"hash":"ccb05a9adc474c48ef9209933b8b9779"
+						}
+					}
+				}
+			}
+		},
+		"jlayer-1.0.1-libgdx_2.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":1083,
+					"lastModified":1482869171300,
+					"hash":"65735bcb6f44dcae20b1b118da284da1"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171306
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":756,
+					"lastModified":1482869171304,
+					"hash":"23e361dc6bbcd2dc3a427b0c315c14c4"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"jlayer-1.0.1-libgdx_2.jar":{
+							"name":"jlayer-1.0.1-libgdx_2.jar",
+							"is_file":true,
+							"size":76146,
+							"lastModified":1482869171307,
+							"hash":"885654861d92aae161c22eb79bac849c"
+						}
+					}
+				}
+			}
+		},
+		"lwjgl-natives.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":515,
+					"lastModified":1482869171473,
+					"hash":"6024bd93b4f4b3526f48ed2d2a2e7dc1"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171488
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":111,
+					"lastModified":1482869171482,
+					"hash":"30703aba733d99a3014d5144c5d00496"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"lwjgl-natives.jar":{
+							"name":"lwjgl-natives.jar",
+							"is_file":true,
+							"size":3066564,
+							"lastModified":1482869171494,
+							"hash":"9d87d7ccbe79f9b12e1506c433428a1f"
+						}
+					}
+				}
+			}
+		},
+		"joda-time-2.8.1.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":7004,
+					"lastModified":1481217209672,
+					"hash":"b2fd4f6da03cf815d8476b69c321f7a1"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1481217238689
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":6977,
+					"lastModified":1481217209677,
+					"hash":"5d88f0d8206c918ef38225e742dd0550"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"joda-time-2.8.1.jar":{
+							"name":"joda-time-2.8.1.jar",
+							"is_file":true,
+							"size":621931,
+							"lastModified":1481217209685,
+							"hash":"c23002a0fac3455e92551e7f24500fa4"
+						}
+					}
+				}
+			}
+		},
+		"junit-4.11.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":7042,
+					"lastModified":1482869171371,
+					"hash":"c62d4419a143b6de3ecd89b977c12569"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171385
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":7007,
+					"lastModified":1482869171380,
+					"hash":"ca0add46d5b35d44e857e2ff1d40dca0"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"junit-4.11.jar":{
+							"name":"junit-4.11.jar",
+							"is_file":true,
+							"size":245039,
+							"lastModified":1482869171391,
+							"hash":"3c42be5ea7cbf3635716abbb429cb90d"
 						}
 					}
 				}
@@ -630,42 +1127,6 @@
 				}
 			}
 		},
-		"aws-java-sdk-1.10.56.jar":{
-			"entries":{
-				"package.descriptor":{
-					"name":"package.descriptor",
-					"is_file":true,
-					"size":994850,
-					"lastModified":1481217207708,
-					"hash":"705e3882a43d14fd51441a4eba713420"
-				},
-				"content":{
-					"name":"content",
-					"is_folder":true,
-					"lastModified":1481217238338
-				},
-				"package.descriptor.json":{
-					"name":"package.descriptor.json",
-					"is_file":true,
-					"size":1026655,
-					"lastModified":1481217207813,
-					"hash":"51f8ebe856fea3ff1c0d041bf7786a0a"
-				}
-			},
-			"children":{
-				"content":{
-					"entries":{
-						"aws-java-sdk-1.10.56.jar":{
-							"name":"aws-java-sdk-1.10.56.jar",
-							"is_file":true,
-							"size":31115440,
-							"lastModified":1481217208538,
-							"hash":"59f596605357da22007b6932559502dc"
-						}
-					}
-				}
-			}
-		},
 		"commons-logging-1.1.3.jar":{
 			"entries":{
 				"package.descriptor":{
@@ -738,6 +1199,42 @@
 				}
 			}
 		},
+		"jlayer-1.0.1-libgdx.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":1081,
+					"lastModified":1482869171281,
+					"hash":"42d511b9299bd0fb64ac40ddc048b834"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171290
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":754,
+					"lastModified":1482869171288,
+					"hash":"24f9dd62e251f1e93e83ecbef129ed04"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"jlayer-1.0.1-libgdx.jar":{
+							"name":"jlayer-1.0.1-libgdx.jar",
+							"is_file":true,
+							"size":76146,
+							"lastModified":1482869171292,
+							"hash":"885654861d92aae161c22eb79bac849c"
+						}
+					}
+				}
+			}
+		},
 		"spring-test-3.0.7.RELEASE.jar":{
 			"entries":{
 				"package.descriptor":{
@@ -769,6 +1266,42 @@
 							"size":205357,
 							"lastModified":1481217210029,
 							"hash":"afbcb10c3e563f272317e968e361ef78"
+						}
+					}
+				}
+			}
+		},
+		"lwjgl.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":19404,
+					"lastModified":1482869171547,
+					"hash":"9fa8054ee22ad08604d30a9653953830"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171582
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":20473,
+					"lastModified":1482869171560,
+					"hash":"93e40ae25bd978e157d317d054fae341"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"lwjgl.jar":{
+							"name":"lwjgl.jar",
+							"is_file":true,
+							"size":1047599,
+							"lastModified":1482869171592,
+							"hash":"9461dc87b33470ac7db3e599d2e3a795"
 						}
 					}
 				}
@@ -810,42 +1343,6 @@
 				}
 			}
 		},
-		"httpclient-4.3.6.jar":{
-			"entries":{
-				"package.descriptor":{
-					"name":"package.descriptor",
-					"is_file":true,
-					"size":18793,
-					"lastModified":1481217209036,
-					"hash":"8f9ae5724379664caeedf39e3320143a"
-				},
-				"content":{
-					"name":"content",
-					"is_folder":true,
-					"lastModified":1481217238475
-				},
-				"package.descriptor.json":{
-					"name":"package.descriptor.json",
-					"is_file":true,
-					"size":19250,
-					"lastModified":1481217209048,
-					"hash":"f7ed519a863d4615fb07b727351c28c0"
-				}
-			},
-			"children":{
-				"content":{
-					"entries":{
-						"httpclient-4.3.6.jar":{
-							"name":"httpclient-4.3.6.jar",
-							"is_file":true,
-							"size":592008,
-							"lastModified":1481217209066,
-							"hash":"2d29a27bb6c6b44bc8a608a0e5d09735"
-						}
-					}
-				}
-			}
-		},
 		"spring-core-3.0.7.RELEASE.jar":{
 			"entries":{
 				"package.descriptor":{
@@ -882,37 +1379,73 @@
 				}
 			}
 		},
-		"spring-beans-3.0.7.RELEASE.jar":{
+		"AppleJavaExtensions-1.4.jar":{
 			"entries":{
 				"package.descriptor":{
 					"name":"package.descriptor",
 					"is_file":true,
-					"size":17757,
-					"lastModified":1481217209818,
-					"hash":"585daed99595f8c7df3db0aca5cdd1d4"
+					"size":1253,
+					"lastModified":1482869170651,
+					"hash":"dfa5afb20c4c4d269a55766b74d28105"
 				},
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1481217238778
+					"lastModified":1482869170704
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
 					"is_file":true,
-					"size":18170,
-					"lastModified":1481217209829,
-					"hash":"65a0387be5a9489ec8397e4a6b2aa365"
+					"size":942,
+					"lastModified":1482869170695,
+					"hash":"9fcfc1975dbdf4ae4d090ee19d091c54"
 				}
 			},
 			"children":{
 				"content":{
 					"entries":{
-						"spring-beans-3.0.7.RELEASE.jar":{
-							"name":"spring-beans-3.0.7.RELEASE.jar",
+						"AppleJavaExtensions-1.4.jar":{
+							"name":"AppleJavaExtensions-1.4.jar",
 							"is_file":true,
-							"size":556747,
-							"lastModified":1481217209849,
-							"hash":"0b9954842f12133fcff91bd90235182d"
+							"size":11719,
+							"lastModified":1482869170765,
+							"hash":"0a0c0a8f20c24803c71eb1e85230d1a8"
+						}
+					}
+				}
+			}
+		},
+		"gdx-natives.jar":{
+			"entries":{
+				"package.descriptor":{
+					"name":"package.descriptor",
+					"is_file":true,
+					"size":513,
+					"lastModified":1482869171023,
+					"hash":"cc6053c3be9ef762c1e337f12f9d1260"
+				},
+				"content":{
+					"name":"content",
+					"is_folder":true,
+					"lastModified":1482869171030
+				},
+				"package.descriptor.json":{
+					"name":"package.descriptor.json",
+					"is_file":true,
+					"size":109,
+					"lastModified":1482869171027,
+					"hash":"004afa1e28d0554c1d0b299085f8244d"
+				}
+			},
+			"children":{
+				"content":{
+					"entries":{
+						"gdx-natives.jar":{
+							"name":"gdx-natives.jar",
+							"is_file":true,
+							"size":852406,
+							"lastModified":1482869171034,
+							"hash":"ede5eadf3996d15b99e5e681fbc2967d"
 						}
 					}
 				}

@@ -1,7 +1,7 @@
 {
 	"format":"java.jar",
 	"version":"1.0",
-	"timestamp":"1481217209696",
+	"timestamp":"1482869171366",
 	"root_file_name":"junit-4.11.jar",
 	"packed_assets":[
 		"junit.extensions.ActiveTestSuite",

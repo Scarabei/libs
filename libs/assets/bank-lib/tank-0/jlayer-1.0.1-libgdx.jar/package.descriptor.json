@@ -1,0 +1,24 @@
+{
+	"format":"java.jar",
+	"version":"1.0",
+	"timestamp":"1482869171276",
+	"root_file_name":"jlayer-1.0.1-libgdx.jar",
+	"packed_assets":[
+		"javazoom.jl.decoder.BitReserve",
+		"javazoom.jl.decoder.Bitstream",
+		"javazoom.jl.decoder.BitstreamException",
+		"javazoom.jl.decoder.Crc16",
+		"javazoom.jl.decoder.DecoderException",
+		"javazoom.jl.decoder.FrameDecoder",
+		"javazoom.jl.decoder.Header",
+		"javazoom.jl.decoder.huffcodetab",
+		"javazoom.jl.decoder.JavaLayerException",
+		"javazoom.jl.decoder.LayerIDecoder",
+		"javazoom.jl.decoder.LayerIIDecoder",
+		"javazoom.jl.decoder.LayerIIIDecoder",
+		"javazoom.jl.decoder.MP3Decoder",
+		"javazoom.jl.decoder.OutputBuffer",
+		"javazoom.jl.decoder.OutputChannels",
+		"javazoom.jl.decoder.SynthesisFilter"
+		]
+}

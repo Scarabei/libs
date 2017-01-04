@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":1007,
+			"lastModified":1482869171259,
+			"hash":"cc87cba89e5e4e02180367354272a152"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869171267
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":672,
+			"lastModified":1482869171265,
+			"hash":"418a8f492a2f618cb3397ec328133a41"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"jglfw.jar":{
+					"name":"jglfw.jar",
+					"is_file":true,
+					"size":136538,
+					"lastModified":1482869171272,
+					"hash":"d521bbc2d06906f50a3a9264d4f42d06"
+				}
+			}
+		}
+	}
+}
