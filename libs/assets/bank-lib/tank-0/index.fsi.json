@@ -28,7 +28,7 @@
 		"gdx-freetype-natives.jar":{
 			"name":"gdx-freetype-natives.jar",
 			"is_folder":true,
-			"lastModified":1482869170975
+			"lastModified":1482869330359
 		},
 		"javaparser-core-2.3.0.jar":{
 			"name":"javaparser-core-2.3.0.jar",
@@ -38,7 +38,7 @@
 		"jglfw.jar":{
 			"name":"jglfw.jar",
 			"is_folder":true,
-			"lastModified":1482869171260
+			"lastModified":1482869330633
 		},
 		"index.r3-bank":{
 			"name":"index.r3-bank",
@@ -60,7 +60,7 @@
 		"gdx-backend-lwjgl-natives.jar":{
 			"name":"gdx-backend-lwjgl-natives.jar",
 			"is_folder":true,
-			"lastModified":1482869170895
+			"lastModified":1482869330324
 		},
 		"aws-java-sdk-1.10.56.jar":{
 			"name":"aws-java-sdk-1.10.56.jar",
@@ -70,7 +70,7 @@
 		"jorbis.jar":{
 			"name":"jorbis.jar",
 			"is_folder":true,
-			"lastModified":1482869171320
+			"lastModified":1482869330734
 		},
 		"httpclient-4.3.6.jar":{
 			"name":"httpclient-4.3.6.jar",
@@ -92,7 +92,7 @@
 		"gdx-backend-jglfw-natives.jar":{
 			"name":"gdx-backend-jglfw-natives.jar",
 			"is_folder":true,
-			"lastModified":1482869170820
+			"lastModified":1482869330287
 		},
 		"aspectjweaver.jar":{
 			"name":"aspectjweaver.jar",
@@ -102,22 +102,22 @@
 		"jorbis_2.jar":{
 			"name":"jorbis_2.jar",
 			"is_folder":true,
-			"lastModified":1482869171344
+			"lastModified":1482869330753
 		},
 		"lwjgl_2.jar":{
 			"name":"lwjgl_2.jar",
 			"is_folder":true,
-			"lastModified":1482869171736
+			"lastModified":1482869330881
 		},
 		"jlayer-1.0.1-libgdx_2.jar":{
 			"name":"jlayer-1.0.1-libgdx_2.jar",
 			"is_folder":true,
-			"lastModified":1482869171301
+			"lastModified":1482869330679
 		},
 		"lwjgl-natives.jar":{
 			"name":"lwjgl-natives.jar",
 			"is_folder":true,
-			"lastModified":1482869171477
+			"lastModified":1482869330817
 		},
 		"joda-time-2.8.1.jar":{
 			"name":"joda-time-2.8.1.jar",
@@ -157,7 +157,7 @@
 		"jlayer-1.0.1-libgdx.jar":{
 			"name":"jlayer-1.0.1-libgdx.jar",
 			"is_folder":true,
-			"lastModified":1482869171285
+			"lastModified":1482869330658
 		},
 		"spring-test-3.0.7.RELEASE.jar":{
 			"name":"spring-test-3.0.7.RELEASE.jar",
@@ -167,7 +167,7 @@
 		"lwjgl.jar":{
 			"name":"lwjgl.jar",
 			"is_folder":true,
-			"lastModified":1482869171551
+			"lastModified":1482869330844
 		},
 		"freemarker-2.3.9.jar":{
 			"name":"freemarker-2.3.9.jar",
@@ -182,12 +182,12 @@
 		"AppleJavaExtensions-1.4.jar":{
 			"name":"AppleJavaExtensions-1.4.jar",
 			"is_folder":true,
-			"lastModified":1482869170691
+			"lastModified":1482869329903
 		},
 		"gdx-natives.jar":{
 			"name":"gdx-natives.jar",
 			"is_folder":true,
-			"lastModified":1482869171024
+			"lastModified":1482869330387
 		}
 	},
 	"children":{
@@ -383,7 +383,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869170993
+					"lastModified":1482869330349
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -419,7 +419,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171238
+					"lastModified":1482869330560
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -455,7 +455,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171267
+					"lastModified":1482869330618
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -527,7 +527,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171055
+					"lastModified":1482869330397
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -563,7 +563,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869170908
+					"lastModified":1482869330305
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -635,7 +635,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171328
+					"lastModified":1482869330723
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -743,7 +743,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869170828
+					"lastModified":1482869330277
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -815,7 +815,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171351
+					"lastModified":1482869330745
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -851,7 +851,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171796
+					"lastModified":1482869330872
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -887,7 +887,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171306
+					"lastModified":1482869330668
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -923,7 +923,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171488
+					"lastModified":1482869330805
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -995,7 +995,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171385
+					"lastModified":1482869330764
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -1211,7 +1211,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171290
+					"lastModified":1482869330647
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -1283,7 +1283,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171582
+					"lastModified":1482869330833
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -1391,7 +1391,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869170704
+					"lastModified":1482869329888
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
@@ -1427,7 +1427,7 @@
 				"content":{
 					"name":"content",
 					"is_folder":true,
-					"lastModified":1482869171030
+					"lastModified":1482869330373
 				},
 				"package.descriptor.json":{
 					"name":"package.descriptor.json",
