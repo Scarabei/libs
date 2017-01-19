@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":27633,
+			"lastModified":1481217209907,
+			"hash":"e03c9677b7bbf8b42af1e91904631ad7"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238803
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":28410,
+			"lastModified":1481217209922,
+			"hash":"7af5e23dcc9d61cc4b05710dcd13539d"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"spring-context-3.0.7.RELEASE.jar":{
+					"name":"spring-context-3.0.7.RELEASE.jar",
+					"is_file":true,
+					"size":670388,
+					"lastModified":1481217209939,
+					"hash":"3c687d6cf542fef60fc50542ac8e2321"
+				}
+			}
+		}
+	}
+}

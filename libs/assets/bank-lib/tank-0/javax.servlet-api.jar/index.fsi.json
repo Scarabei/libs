@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":3297,
+			"lastModified":1481217209630,
+			"hash":"ac0f97002518cfe1098db0e662025e78"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238666
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":3142,
+			"lastModified":1481217209637,
+			"hash":"77ce32766827df6da64d3bddf0f24874"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"javax.servlet-api.jar":{
+					"name":"javax.servlet-api.jar",
+					"is_file":true,
+					"size":95235,
+					"lastModified":1481217209649,
+					"hash":"f43a316b8c9d6902e652a831d12c7218"
+				}
+			}
+		}
+	}
+}

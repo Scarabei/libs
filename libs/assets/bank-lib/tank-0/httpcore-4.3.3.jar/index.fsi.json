@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":10223,
+			"lastModified":1481217209091,
+			"hash":"d41788336c69e069581325fe812ef0c4"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238500
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":10428,
+			"lastModified":1481217209101,
+			"hash":"b2a243d4ae3e7939337a446713517581"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"httpcore-4.3.3.jar":{
+					"name":"httpcore-4.3.3.jar",
+					"is_file":true,
+					"size":282793,
+					"lastModified":1481217209121,
+					"hash":"c26171852f9810cd3d2416604a387e71"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":6412,
+			"lastModified":1482869171225,
+			"hash":"3dd56302b90fda783c225cd43244417d"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869330560
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":6377,
+			"lastModified":1482869171232,
+			"hash":"517c68c45b4da7a394cf6cde7c32e676"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"javaparser-core-2.3.0.jar":{
+					"name":"javaparser-core-2.3.0.jar",
+					"is_file":true,
+					"size":322588,
+					"lastModified":1482869171246,
+					"hash":"9ca09990a462b6bb1aac625b97d851de"
+				}
+			}
+		}
+	}
+}

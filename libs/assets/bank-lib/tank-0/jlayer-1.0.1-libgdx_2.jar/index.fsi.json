@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":1083,
+			"lastModified":1482869171300,
+			"hash":"65735bcb6f44dcae20b1b118da284da1"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869330668
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":756,
+			"lastModified":1482869171304,
+			"hash":"23e361dc6bbcd2dc3a427b0c315c14c4"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"jlayer-1.0.1-libgdx_2.jar":{
+					"name":"jlayer-1.0.1-libgdx_2.jar",
+					"is_file":true,
+					"size":76146,
+					"lastModified":1482869171307,
+					"hash":"885654861d92aae161c22eb79bac849c"
+				}
+			}
+		}
+	}
+}

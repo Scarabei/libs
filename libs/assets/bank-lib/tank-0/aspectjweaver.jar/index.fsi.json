@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":29291,
+			"lastModified":1481217206464,
+			"hash":"e4911adc1e4b54a5122d4f714b613feb"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238133
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":30804,
+			"lastModified":1481217206487,
+			"hash":"7fd005b1504d59491b4ce148a55d6117"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"aspectjweaver.jar":{
+					"name":"aspectjweaver.jar",
+					"is_file":true,
+					"size":1749970,
+					"lastModified":1481217206538,
+					"hash":"b79f1927b4d55baea80ccacbefbc7f96"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":1167,
+			"lastModified":1481217208588,
+			"hash":"bf93b7fb402f69708d016e55ee47b3d1"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238398
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":832,
+			"lastModified":1481217208596,
+			"hash":"7cc4e0d0606280cbc809d31d1bee7af3"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"commons-logging-1.1.3.jar":{
+					"name":"commons-logging-1.1.3.jar",
+					"is_file":true,
+					"size":62050,
+					"lastModified":1481217208607,
+					"hash":"92eb5aabc1b47287de53d45c086a435c"
+				}
+			}
+		}
+	}
+}

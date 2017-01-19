@@ -1,0 +1,22 @@
+{
+	"format":"java.jar",
+	"version":"1.0",
+	"timestamp":"1482869171253",
+	"root_file_name":"jglfw.jar",
+	"packed_assets":[
+		"com.badlogic.jglfw.Glfw",
+		"com.badlogic.jglfw.GlfwCallback",
+		"com.badlogic.jglfw.GlfwCallbackAdapter",
+		"com.badlogic.jglfw.GlfwCallbacks",
+		"com.badlogic.jglfw.GlfwVideoMode",
+		"com.badlogic.jglfw.al.AL",
+		"com.badlogic.jglfw.al.ALC",
+		"com.badlogic.jglfw.generators.ALGenerator",
+		"com.badlogic.jglfw.generators.ALParser",
+		"com.badlogic.jglfw.generators.GLGenerator",
+		"com.badlogic.jglfw.generators.GLParser",
+		"com.badlogic.jglfw.gl.GL",
+		"com.badlogic.jglfw.utils.Memory",
+		"com.badlogic.jglfw.utils.SharedLibraryLoader"
+		]
+}
