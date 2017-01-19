@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":527,
+			"lastModified":1482869170816,
+			"hash":"ff1dd6171be885a97e623b675d16ec67"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869330277
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":123,
+			"lastModified":1482869170823,
+			"hash":"0df44856d60eaaeb0ef87b72fefc3aa7"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"gdx-backend-jglfw-natives.jar":{
+					"name":"gdx-backend-jglfw-natives.jar",
+					"is_file":true,
+					"size":1321237,
+					"lastModified":1482869170832,
+					"hash":"ae2642d3ed9045e6174be2d1139f7ab8"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":994850,
+			"lastModified":1481217207708,
+			"hash":"705e3882a43d14fd51441a4eba713420"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238338
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":1026655,
+			"lastModified":1481217207813,
+			"hash":"51f8ebe856fea3ff1c0d041bf7786a0a"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"aws-java-sdk-1.10.56.jar":{
+					"name":"aws-java-sdk-1.10.56.jar",
+					"is_file":true,
+					"size":31115440,
+					"lastModified":1481217208538,
+					"hash":"59f596605357da22007b6932559502dc"
+				}
+			}
+		}
+	}
+}

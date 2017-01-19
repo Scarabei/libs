@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":1998,
+			"lastModified":1482869171319,
+			"hash":"31add64ed617b3b553e72ba140969049"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869330723
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":1743,
+			"lastModified":1482869171324,
+			"hash":"02eb4acd49d40a80ca6819e21252ce01"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"jorbis.jar":{
+					"name":"jorbis.jar",
+					"is_file":true,
+					"size":64696,
+					"lastModified":1482869171332,
+					"hash":"c33806373904bfc0527d16e349051aa4"
+				}
+			}
+		}
+	}
+}

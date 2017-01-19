@@ -1,0 +1,28 @@
+{
+	"format":"java.jar",
+	"version":"1.0",
+	"timestamp":"1482869170622",
+	"root_file_name":"AppleJavaExtensions-1.4.jar",
+	"packed_assets":[
+		"com.apple.concurrent.Dispatch",
+		"com.apple.eawt.Application",
+		"com.apple.eawt.ApplicationAdapter",
+		"com.apple.eawt.ApplicationBeanInfo",
+		"com.apple.eawt.ApplicationEvent",
+		"com.apple.eawt.ApplicationListener",
+		"com.apple.eawt.CocoaComponent",
+		"com.apple.eawt.event.GestureAdapter",
+		"com.apple.eawt.event.GestureEvent",
+		"com.apple.eawt.event.GestureListener",
+		"com.apple.eawt.event.GesturePhaseEvent",
+		"com.apple.eawt.event.GesturePhaseListener",
+		"com.apple.eawt.event.GestureUtilities",
+		"com.apple.eawt.event.MagnificationEvent",
+		"com.apple.eawt.event.MagnificationListener",
+		"com.apple.eawt.event.RotationEvent",
+		"com.apple.eawt.event.RotationListener",
+		"com.apple.eawt.event.SwipeEvent",
+		"com.apple.eawt.event.SwipeListener",
+		"com.apple.eio.FileManager"
+		]
+}

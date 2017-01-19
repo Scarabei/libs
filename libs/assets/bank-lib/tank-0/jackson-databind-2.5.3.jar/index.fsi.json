@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":22593,
+			"lastModified":1481217209532,
+			"hash":"c73b44f82053401b144725b16ed51dd6"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1481217238592
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":23046,
+			"lastModified":1481217209538,
+			"hash":"665260a15e63a9a7eab4184b7bf3699a"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"jackson-databind-2.5.3.jar":{
+					"name":"jackson-databind-2.5.3.jar",
+					"is_file":true,
+					"size":1143162,
+					"lastModified":1481217209552,
+					"hash":"b04f954ff7a76091cd6a303ebba8c67d"
+				}
+			}
+		}
+	}
+}

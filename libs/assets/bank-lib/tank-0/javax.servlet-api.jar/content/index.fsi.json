@@ -1,0 +1,11 @@
+{
+	"entries":{
+		"javax.servlet-api.jar":{
+			"name":"javax.servlet-api.jar",
+			"is_file":true,
+			"size":95235,
+			"lastModified":1481217209649,
+			"hash":"f43a316b8c9d6902e652a831d12c7218"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"entries":{
+		"package.descriptor":{
+			"name":"package.descriptor",
+			"is_file":true,
+			"size":513,
+			"lastModified":1482869171023,
+			"hash":"cc6053c3be9ef762c1e337f12f9d1260"
+		},
+		"content":{
+			"name":"content",
+			"is_folder":true,
+			"lastModified":1482869330373
+		},
+		"package.descriptor.json":{
+			"name":"package.descriptor.json",
+			"is_file":true,
+			"size":109,
+			"lastModified":1482869171027,
+			"hash":"004afa1e28d0554c1d0b299085f8244d"
+		}
+	},
+	"children":{
+		"content":{
+			"entries":{
+				"gdx-natives.jar":{
+					"name":"gdx-natives.jar",
+					"is_file":true,
+					"size":852406,
+					"lastModified":1482869171034,
+					"hash":"ede5eadf3996d15b99e5e681fbc2967d"
+				}
+			}
+		}
+	}
+}
